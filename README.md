@@ -8,10 +8,12 @@
 - The developer.webex.com website for basic API calls
 - Postman for basic 'GET' calls
 
-[Cisco Webex for Developers] - Build with Webex
-[Postman API Platform] - Postman is an API platform for building and using APIs. 
-[Webex API Docs] - Documentationa and API Reference
-[Webex Developer Sandbox] - Develop against the Webex Sandbox
+Useful Links
+
+- [Cisco Webex for Developers] - Build with Webex
+- [Postman API Platform] - Postman is an API platform for building and using APIs. 
+- [Webex API Docs] - Documentationa and API Reference
+- [Webex Developer Sandbox] - Develop against the Webex Sandbox
 ### Part 2 - Programatically Retrieving Data
 > In this webinar, we discuss the basics of how to use an API to fetch data using Python and the requests library. We also discussed how Postman can help you easily prototype an API call and generate basic code to execute the call in a language of your choice.
 
