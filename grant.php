@@ -1,5 +1,5 @@
 <?php
-$oauthAuthorizationURL =<Paste Value from OAuth Authorization URL Here in Double Quotes>;
+$oauthAuthorizationURL ="Paste Value from OAuth Authorization URL Here in Double Quotes";
 ?>
 
 <!DOCTYPE html>
