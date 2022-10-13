@@ -32,7 +32,9 @@ Two custom applications enable us to
 
 
 
-## License
+## MIT License
+
+https://opensource.org/licenses/MIT
 
 Copyright 2022 Continental Resources
 
