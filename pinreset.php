@@ -1,7 +1,11 @@
 <?php
 
+# Make sure you have installed php-curl (on Ubuntu sudo apt install php-curl)
 $bearer_token = "Enter Your Token Here in Double Quotes";
-$userToReset = $_POST["listbox"];
+
+if(isset($_POST["listbox"])) {
+  $userToReset = $_POST["listbox"];}
+else { $userToReset = ""; }
 $curlGetUserList = curl_init();
 $curlResetPin = curl_init();
 
