@@ -28,7 +28,8 @@ Useful Links
 ### Part 3 - Using an API to Perform Bulk Provisioning Tasks
 > In this webinar, we discuss techniques to approach the creation of tools to simplify accomplishing routine, repetitive tasks. 
 
-Two custom applications enable us to
+Three custom applications enable us to
+- Create several Webex rooms and post a message to each room using Python
 - Set the zero out destination for a group Webex users using Python
 - Reset voicemail pin for a user using PHP
 
