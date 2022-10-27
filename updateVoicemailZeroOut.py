@@ -1,4 +1,4 @@
-import requests, pprint, json, csv
+import requests, json, csv
 
 bearer_token = "Enter Your Token Here in Double Quotes"
 
@@ -15,7 +15,7 @@ with open("voicemail_users.csv", "r") as csv_file:
         email = (user['#email#'])
         zeroOutEnable = (user['#zeroOutEnable#'])
         destination = (user['#destination#'])
-        #print(email + " : " + zeroOutEnable + " : " + destination)
+    
         line_count += 1
         # Part 1 - Get User ID from Email
         
